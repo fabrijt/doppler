@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "EffettoDoppler",
-"dataUrl": "PaginaWeb.data.unityweb",
-"wasmCodeUrl": "PaginaWeb.wasm.code.unityweb",
-"wasmFrameworkUrl": "PaginaWeb.wasm.framework.unityweb",
+"dataUrl": "doppler.data.unityweb",
+"wasmCodeUrl": "doppler.wasm.code.unityweb",
+"wasmFrameworkUrl": "doppler.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
